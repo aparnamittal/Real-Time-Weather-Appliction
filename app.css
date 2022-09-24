@@ -1,6 +1,6 @@
 body {
     background-image: url("https://cdn.dribbble.com/users/925716/screenshots/3333720/attachments/722376/after_noon.png");
-    background-color: gold;
+    background-color: rgb(245, 180, 61);
     height: 600px;
     background-position: center;
     background-repeat: no-repeat;
@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    width: 475px;
+    width: 34rem;
     height: 25rem;
     background-color: white;
     align-self: center;
