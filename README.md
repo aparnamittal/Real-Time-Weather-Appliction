@@ -1,4 +1,4 @@
-# Weather-Appliction
+# Real Time Weather Appliction
 This is a real time weather application made using HTML, CSS, JavaScript and Weather stack API.
 
 ## Steps to Deploy this Application:
